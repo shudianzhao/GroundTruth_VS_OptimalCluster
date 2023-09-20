@@ -1,4 +1,4 @@
-# GroundTrueCluster_VS_ExactCluster
+# GroundTruth_VS_OptimalCluster
 
 The instances include real and artificial instances, see  /input_data_for_exact_solver.
 
